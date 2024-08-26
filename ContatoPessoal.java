@@ -1,5 +1,3 @@
-package TRABALHOPOO;
-
 public class ContatoPessoal extends Contatos {
     private String endereco;
     private String data_aniversario;

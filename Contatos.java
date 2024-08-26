@@ -1,5 +1,3 @@
-package TRABALHOPOO;
-
 public class Contatos{
     String nome;
     String numero;

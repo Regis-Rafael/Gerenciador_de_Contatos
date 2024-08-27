@@ -1,4 +1,4 @@
-package TRABALHOPOO;
+package Gerenciador_de_Contatos;
 
 public class Contatos{
     String nome;

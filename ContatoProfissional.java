@@ -1,7 +1,5 @@
 package Gerenciador_de_Contatos;
 
-
-
 public class ContatoProfissional extends Contatos {
     private String empresa;
     private String cargo;

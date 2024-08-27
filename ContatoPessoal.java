@@ -1,7 +1,5 @@
 package Gerenciador_de_Contatos;
 
-
-
 public class ContatoPessoal extends Contatos {
     private String endereco;
     private String data_aniversario;

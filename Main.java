@@ -1,5 +1,4 @@
 package Gerenciador_de_Contatos;
-
 import java.util.Scanner;
 
 public class Main {
